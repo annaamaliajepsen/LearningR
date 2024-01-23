@@ -1,3 +1,5 @@
+Anna Amalia Jepsen
+
 TODO: Add more to the title of your project here
 
 # LearningR:
