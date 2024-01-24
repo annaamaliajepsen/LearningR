@@ -2,6 +2,8 @@ Anna Amalia Jepsen
 
 TODO: Add more to the title of your project here
 
+A random sentence.
+
 # LearningR:
 
 TODO: Give a brief description of what your project is about
